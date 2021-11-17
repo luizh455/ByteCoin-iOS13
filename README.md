@@ -4,7 +4,7 @@
 The goal is to create an app that can get bitcoin's price rate for a list of exchanges.
 
 ## What we've created
-By the end of the project, we got a system that can create, read, update and delete tasks for an authenticated user and save all the user's information in a database.
+By the end of the project, we got an app that can show in a beautiful way bitcoin's price rate for a list of exchanges.
 
 ## What we've learned
 
